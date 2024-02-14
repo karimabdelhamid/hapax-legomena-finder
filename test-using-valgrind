@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# turn on "XTRACE" mode -- print each command before running it
+set -x
+
+# run the valgrind command to run our program with any arguments
+# the user has specified
+valgrind --tool=memcheck ./hapax "$@"
+

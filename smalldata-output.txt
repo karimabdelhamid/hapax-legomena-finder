@@ -1,0 +1,11 @@
+Total word count 10
+Tally loaded
+Hapax legomena from file 'smalldata.txt':
+    a
+    is
+    line
+    test
+    this
+    three
+    there
+    where
