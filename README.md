@@ -14,7 +14,7 @@ This command-line tool takes one or more text files as input and tallies the occ
 
 ```bash
 hapax [<options>] <datafile> [ <datafile> ...]
-
+```
 
 ### Options
 
