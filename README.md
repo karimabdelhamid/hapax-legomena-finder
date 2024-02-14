@@ -14,7 +14,7 @@ This command-line tool reads through one or more text files, counts the occurren
 
 ```bash
 hapax [<options>] <datafile> [ <datafile> ...]
-
+'''
 ### Options
 
 - `-d`: Print out all data loaded before printing hapax legomena.
